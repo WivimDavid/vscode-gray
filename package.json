@@ -1,0 +1,22 @@
+{
+  "name": "vscode-gray",
+  "displayName": "vscode-gray",
+  "description": "Minimalist gray theme customized with Dracula colors.",
+  "publisher": "wivimdavid",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dracula-gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula-gray-color-theme.json"
+      }
+    ]
+  }
+}
