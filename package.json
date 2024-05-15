@@ -1,20 +1,28 @@
 {
-  "name": "vscode-gray",
-  "displayName": "vscode-gray",
+  "name": "graydraculatheme",
+  "displayName": "DraculaGray",
   "description": "Minimalist gray theme customized with Dracula colors.",
   "publisher": "wivim-dev",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.89.0"
+  },
+  "icon": "icon/vg.jpg",
+  "author": {
+    "name": "Wivim David",
+    "url": "https://github.com/WivimDavid"
   },
   "categories": [
     "Themes"
   ],
-  "icon": "vscode-gray.jpg",
+  "repository": {
+    "url": "https://github.com/WivimDavid/vscode-gray.git",
+    "type": "git"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "dracula-gray",
+        "label": "Dracula + Gray",
         "uiTheme": "vs-dark",
         "path": "./themes/dracula-gray-color-theme.json"
       }
