@@ -3,7 +3,7 @@
   "displayName": "DraculaGray",
   "description": "Minimalist gray theme customized with Dracula colors.",
   "publisher": "wivim-dev",
-  "version": "0.0.4",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.89.0"
   },

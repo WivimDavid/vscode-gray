@@ -1,0 +1,11 @@
+
+
+Colors
+
+color-palette {   
+ gray-1: #1A1B26; 
+ gray-2: #24252E; 
+ gray-3: #232330; 
+ gray-4: #9fa3a9;
+}
+
