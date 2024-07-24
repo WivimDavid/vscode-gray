@@ -9,3 +9,8 @@ color-palette {
  gray-4: #9fa3a9;
 }
 
+border-color-palette 
+before = #9fa3a9
+new = #817c9c4d
+
+#E2E4EDe6
