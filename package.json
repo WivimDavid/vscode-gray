@@ -3,11 +3,11 @@
   "displayName": "DraculaGray",
   "description": "Minimalist gray theme customized with Dracula colors.",
   "publisher": "wivim-dev",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "engines": {
     "vscode": "^1.89.0"
   },
-  "icon": "icon/vg.png",
+  "icon": "icon/vscode.png",
   "author": {
     "name": "Wivim David",
     "url": "https://github.com/WivimDavid"
