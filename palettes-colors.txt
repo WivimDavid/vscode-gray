@@ -1,16 +1,33 @@
 
 
-Colors
+Colors Antigas
 
 color-palette {   
- gray-1: #1A1B26; 
- gray-2: #24252E; 
+ gray-1: #1b1c23; //background
+ gray-2: #41424a; //foreground
  gray-3: #232330; 
- gray-4: #9fa3a9;
+ gray-4: #9fa3a9;//border
+ border-2: #817c9c4d;
+ white: #E2E4ED; //Debug
 }
 
 border-color-palette 
 before = #9fa3a9
 new = #817c9c4d
+      #1e2029
 
 #E2E4EDe6
+
+Testes
+#1e2029 Mais ou menos
+#817c9c14
+#817c9c4d
+#41424a
+
+Esquema monocromático
+background: #1b1c23
+foreground: #202026
+border: #41424a
+selection: #41424a
+comment: #575861
+white: #E2E4ED; //Debug
