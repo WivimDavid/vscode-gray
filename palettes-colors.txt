@@ -31,3 +31,26 @@ border: #41424a
 selection: #41424a
 comment: #575861
 white: #E2E4ED; //Debug
+
+Testes
+#2B2D31
+#202428
+#101727
+#202125
+#101727 => Gostei 
+
+// new
+/* CSS HEX */
+--raisin-black: #1b1d25; // Foreground
+--raisin-black-2: #1e2029; // Background
+--raisin-black-3: #21232d; // Foreground 2 
+--raisin-black-4: #242631;
+--raisin-black-5: #41424a;// Border
+--onyx: #3c3d48;
+--davys-gray: #4e4f59;// Terminal Ansi
+--dim-gray: #5e5f68;
+--dim-gray-2: #6d6e76;
+--dim-gray-3: #9fa3a9;
+--white: #e2e4ed;
+
+border = #41424a
