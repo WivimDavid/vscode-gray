@@ -68,6 +68,8 @@
 		"diffEditor.removedTextBorder": "#999EB280",
 		"dropdown.background": "#21232d",// Visualizado acessado (OUTPUT)
 		"dropdown.border": "#41424a", // Borda de task do (OUTPUT)
+    
+    // Editor ------------------------------------------------------------
     "editor.background": "#1e2029",// Fundo da tela
     "editor.foreground": "#868690",
 		"editor.findMatchBackground": "#41424a",
@@ -224,24 +226,25 @@
 		"editorWidget.foreground": "#575861",
 		"editorWidget.resizeBorder": "#43444D",
 		"errorForeground": "#999EB2",
+    // Extensões
 		"extensionBadge.remoteBackground": "#E2E4ED",
 		"extensionBadge.remoteForeground": "#1e2029",
 		"extensionButton.prominentBackground": "#B6BAC8",
 		"extensionButton.prominentForeground": "#1e2029",
 		"extensionButton.prominentHoverBackground": "#B6BAC8e6",
-		"extensionIcon.starForeground": "#999EB290",
-		"extensionIcon.verifiedForeground": "#999EB290",
+		"extensionIcon.starForeground": "#FF9928",
+		"extensionIcon.verifiedForeground": "#0066FF",
 		"focusBorder": "#41424a",
 		"foreground": "#6d6e76", // Titulo do terminal selecionado exemplo: (zsh and PORTS)
     // Git | Modificado | Adicionado | Excluído
 		"gitDecoration.addedResourceForeground": "#9fa3a9", // Arquivo adicionado
 		"gitDecoration.conflictingResourceForeground": "#9fa3a9", // Arquivo conflitante
-		"gitDecoration.deletedResourceForeground": "#ff5555", // Arquivo excluído
+		"gitDecoration.deletedResourceForeground": "#e2e4ed", // Arquivo excluído
 		"gitDecoration.ignoredResourceForeground": "#3c3d48", // Arquivo ignorado
-		"gitDecoration.modifiedResourceForeground": "#50fa7b", // Arquivo modificado a ser commitado
+		"gitDecoration.modifiedResourceForeground": "#e2e4ed", // Arquivo modificado a ser commitado
 		"gitDecoration.renamedResourceForeground": "#9fa3a9", // Arquivo renomeado
 		"gitDecoration.stageDeletedResourceForeground": "#9fa3a9", // Arquivo excluído do stage
-		"gitDecoration.stageModifiedResourceForeground": "#f1fa8c", // Arquivo modificado no stage
+		"gitDecoration.stageModifiedResourceForeground": "#e2e4ed", // Arquivo modificado no stage
 		"gitDecoration.submoduleResourceForeground": "#9fa3a9", // Submódulo
 		"gitDecoration.untrackedResourceForeground": "#9fa3a9", // Arquivo não adicionado
 
